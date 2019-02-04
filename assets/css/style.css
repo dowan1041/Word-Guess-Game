@@ -1,0 +1,35 @@
+html {
+}
+body {
+    background-image: url(../css/images/green_cup.png);
+
+}
+
+#mainimage {
+    width: 100%;
+    height: 300px;
+    margin: 30px auto;
+}
+.contentimg{
+    width: 200px;
+    height: 200px;
+}
+#content {
+    text-align: center;
+    border: 2px solid darkgreen;
+    padding: 30px 10px;
+    background-color: rgb(55, 151, 146);
+    color: #ffffff;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 28px;
+}
+.text {
+    padding: 15px 0;
+}
+#c1 {
+    border-top: 2px solid grey;
+}
+#hangman {
+    width: 200px;
+    height: 200px;
+}
